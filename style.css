@@ -290,6 +290,14 @@ body.index-page {
 }
 @media (max-width: 480px) {
   .birthday-text1 {
-    font-size: 1.25rem;
+    font-size: 0.85rem;
   }
+}
+.birthday-text2 {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Great Vibes', cursive;
+  color: #3a2f35;
+  text-shadow: 2px 2px 4px rgba(233, 171, 222, 0.3);
+  z-index: 1000;  
 }
