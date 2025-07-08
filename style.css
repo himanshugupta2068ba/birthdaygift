@@ -210,7 +210,7 @@ margin-top: 20px;
 }
 @media (max-width: 480px) {
   .birthday-text {
-    font-size: 1.25rem;
+    font-size: 1.65rem;
   }
 }
 .centered-image {
@@ -291,7 +291,7 @@ body.index-page {
 }
 @media (max-width: 480px) {
   .birthday-text1 {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 }
 .birthday-text2 {
