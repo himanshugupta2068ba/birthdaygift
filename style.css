@@ -349,12 +349,12 @@ body.index-page {
   }
 
   .centered-image {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
   }
 
   .birthday-button {
-    transform: scale(0.7);
+    transform: scale(0.8);
   }
 
   .birthday-text {
