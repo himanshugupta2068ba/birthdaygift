@@ -198,7 +198,7 @@ label svg:nth-of-type(1) {
   font-weight: bold;
   /* font-family: 'Playfair Display', serif; */
   font-family: 'Great Vibes', cursive;
-margin-top: 20px;
+margin-top: 60px;
   color: #3a2f35;
   text-shadow: 2px 2px 4px rgba(233, 171, 222, 0.3);
   z-index: 1000;
@@ -211,6 +211,7 @@ margin-top: 20px;
 @media (max-width: 480px) {
   .birthday-text {
     font-size: 1.65rem;
+    font-weight: bold;
   }
 }
 .centered-image {
@@ -331,8 +332,8 @@ body.index-page {
   }
 
   .birthday-text {
-      font-size: 1.5rem;
-      padding: 0 20px;
+      font-size: 1.75rem;
+      /* padding: 0 20px; */
   }
 }
 
